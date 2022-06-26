@@ -39,8 +39,6 @@ header{
     text-shadow: 2px 2px 4px black;
 }
 
-
-
 #j1{
     text-align: justify;
     font-family: Arial, Helvetica, sans-serif;
@@ -59,4 +57,7 @@ h4{
 }
 .ColorBP{
     color: white;
+}
+.navbar-toggler{
+    background-color: whitesmoke;
 }
